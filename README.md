@@ -78,10 +78,10 @@ The generator code generates a script:
 - [x] It doesn’t have to be grammatically correct or make sense.
 
 ## Suggestions to Make Your Project Stand Out!
-- [] Use validation data to choose the best model
-- [] Initialize your model weights, especially the weights of the embedded layer to encourage model convergence
-- [] Use topk sampling to generate new words
+- [ ] Use validation data to choose the best model
+- [ ] Initialize your model weights, especially the weights of the embedded layer to encourage model convergence
+- [ ] Use topk sampling to generate new words
 
 ## Future work: 
-- [] Try different scripts, eg. Friends!
-- [] Implement the suggestions above
+- [ ] Try different scripts, eg. Friends!
+- [ ] Implement the suggestions above
